@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: blivet
+Version: 3.1.0.b1
+Summary: Python module for system storage configuration
+Home-page: http://github.com/storaged-project/blivet
+Author: David Lehman
+Author-email: dlehman@redhat.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
