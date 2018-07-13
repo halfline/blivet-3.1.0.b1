@@ -295,7 +295,7 @@ class XFSMkfs(FSMkfs):
 
     @property
     def args(self):
-        return ["-f"]
+        return ["-f", "-m", "reflink=0"]
 
 
 class UnimplementedFSMkfs(task.UnimplementedTask, FSMkfsTask):
